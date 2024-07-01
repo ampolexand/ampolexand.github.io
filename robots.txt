@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ampolexand.github.io/sitemap
+Sitemap: https://ampolexand.github.io/app/sitemap
+Sitemap: https://ampolexand.github.io/assets/sitemap
+Sitemap: https://ampolexand.github.io/css/sitemap
+Sitemap: https://ampolexand.github.io/includes/sitemap
+Sitemap: https://ampolexand.github.io/item/sitemap
+Sitemap: https://ampolexand.github.io/src/sitemap
